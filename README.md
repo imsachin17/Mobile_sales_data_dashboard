@@ -83,12 +83,3 @@ The raw Excel data (`Mobile Sales Data.xlsx`) is included, so no connection issu
 If you’d like to discuss the data model, DAX calculations, or have suggestions—feel free to reach out.
 
 **GitHub:** `@imsachin17`
-
----
-
-If you want, I can also prepare:
-✅ A **short version** for resumes
-✅ A **portfolio-friendly** version
-✅ A **more professional corporate version**
-
-Just tell me!
