@@ -1,8 +1,3 @@
-Here is a **copy-ready, clean markdown version** with **large, clear headings** (GitHub-compatible).
-Just copy and paste — the font sizes will automatically appear bigger for headings.
-
----
-
 # 📱 **MOBILE SALES DATA DASHBOARD**
 
 ## **A Quick, Insightful Overview**
